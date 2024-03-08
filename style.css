@@ -1,0 +1,25 @@
+body {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+ul {
+    color: cyan;
+    background-color: blue;
+}
+
+ol {
+    color: black;
+    background-color: gold;
+}
+
+h2 {
+    font-family: fantasy;
+    color: green;
+    font-size: 50px;
+    font-style: initial;
+    font-weight: lighter;
+}
