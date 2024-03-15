@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: palegreen;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -7,8 +7,8 @@ body {
 }
 
 ul {
-    color: cyan;
-    background-color: blue;
+    color: blue;
+    background-color: brown;
 }
 
 ol {
@@ -18,7 +18,7 @@ ol {
 
 h2 {
     font-family: fantasy;
-    color: green;
+    color: white;
     font-size: 50px;
     font-style: initial;
     font-weight: lighter;
